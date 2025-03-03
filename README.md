@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hello, I'm Asmae TAHTOUH!
 
-<!--
-**asmae-th/asmae-th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🚀 Software Engineer | Mobile Developer (Flutter & Dart)**
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 📱 Passionate about **mobile app development** using **Flutter & Dart**.
+- 💡 Strong foundation in **C, C++, and Java**.
+- ⚙️ Experienced in software architecture & backend development.
+- 🚀 Always learning and exploring **new technologies**.
+- 🏆 Love solving complex problems and optimizing code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Mobile:** Flutter, Dart
+- **Languages:** C, C++, Java
+- **Tools & Platforms:** Git, Firebase, REST APIs, 
+
+### 📈 GitHub Stats
+!asmae-th(https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+### 📫 Contact Me
+- Email: [asmaetahtouh17@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/asmae-tahtouh-9b0404248/]
+
+💡 *Let's connect and build something awesome!* 🚀
+
