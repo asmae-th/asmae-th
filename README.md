@@ -21,7 +21,8 @@
 
 ### 🚀 Top Contributed Repository
 
-[![My Cool Repo](https://github-readme-stats.vercel.app/api/pin/?username=asmae-th&repo=Cub3D)]([https://github.com/yourUsername/repoName](https://github.com/asmae-th/Cub3D))
+[![My Cool Repo](https://github-readme-stats.vercel.app/api/pin/?username=asmae-th&repo=Cub3D)](https://github.com/asmae-th/Cub3D)
+
 
 
 
