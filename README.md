@@ -17,7 +17,8 @@
 ### 📈 GitHub Stats
 ![asmae-th](https://github-readme-stats.vercel.app/api?username=asmae-th&show_icons=true&theme=radical)
 ###
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asmae-th&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asmae-th&layout=compact&theme=radical)
+
 
 
 ###
