@@ -22,6 +22,7 @@
 ## 🚀 Top Contributed Repo
 
 [![Cub3D](https://github-readme-stats.vercel.app/api/pin/?username=asmae-th&repo=Cub3D&theme=radical&layout=compact)](https://github.com/asmae-th/Cub3D)
+[![Cub3D](https://github-readme-stats.vercel.app/api/pin/?username=asmae-th&repo=minishell&theme=radical&layout=compact)](https://github.com/asmae-th/minishell)
 
 ### 👥 Contributors
 
