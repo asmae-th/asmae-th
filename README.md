@@ -21,7 +21,17 @@
 
 ### 🚀 Top Contributed Repository
 
-[![My Cool Repo](https://github-readme-stats.vercel.app/api/pin/?username=asmae-th&repo=Cub3D&layout=compact&theme=radical))](https://github.com/asmae-th/Cub3D)
+## 🚀 Top Contributed Repo
+
+[![Cub3D](https://github-readme-stats.vercel.app/api/pin/?username=asmae-th&repo=Cub3D&theme=radical&layout=compact)](https://github.com/asmae-th/Cub3D)
+
+### 👥 Contributors
+
+<a href="https://github.com/asmae-th"><img src="https://github.com/asmae-th.png" width="50px;" alt="asmae-th"/></a>
+<a href="https://github.com/feljourb"><img src="https://github.com/your-friend.png" width="50px;" alt="feljourb"/></a>
+
+
+
 
 
 
