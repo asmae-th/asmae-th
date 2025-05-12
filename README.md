@@ -15,7 +15,7 @@
 - **Tools & Platforms:** Git, Firebase, REST APIs, 
 
 ### 📈 GitHub Stats
-![asmae-th](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![asmae-th](https://github-readme-stats.vercel.app/api?username=asmae-th&show_icons=true&theme=radical)
 ###
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnDoe&layout=compact&theme=radical)
 
