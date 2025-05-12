@@ -19,8 +19,6 @@
 ###
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asmae-th&layout=compact&theme=radical)
 
-### 🚀 Top Contributed Repository
-
 ## 🚀 Top Contributed Repo
 
 [![Cub3D](https://github-readme-stats.vercel.app/api/pin/?username=asmae-th&repo=Cub3D&theme=radical&layout=compact)](https://github.com/asmae-th/Cub3D)
