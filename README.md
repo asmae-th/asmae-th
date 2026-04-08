@@ -50,20 +50,25 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=asmae-th&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asmae-th&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmae-th&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmae-th&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=asmae-th&theme=radical&hide_border=true" />
 </p>
 
 ---
 
 ## 🌱 Current Focus
 
-* 🌸 Learning Machine Learning step by step
-* 🌸 Building real-world ML projects
-  
+* 🌸 Learning Machine Learning step by step  
+* 🌸 Building real-world ML projects  
+* 🌸 Strengthening Python + data skills  
+
 ---
 
 ## 💌 Contact
@@ -71,4 +76,4 @@
 * 📧 [asmaetahtouh17@gmail.com](mailto:asmaetahtouh17@gmail.com)
 * 💼 LinkedIn: https://www.linkedin.com/in/asmae-tahtouh-9b0404248/
 
-
+---
