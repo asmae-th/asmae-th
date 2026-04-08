@@ -50,14 +50,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.demolab.com/api?username=asmae-th&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=asmae-th&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=asmae-th&theme=radical&hide_border=true" />
 </p>
 
