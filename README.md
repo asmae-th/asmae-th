@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="180"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzM4djg1NGtncDQ2ZGhsamExb2R6cXRyZGd5OGNqY25ua252d2QzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AXtFMwP1ZvjZSBtmGk/giphy.gif" width="180"/>
 </p>
 
 <h1 align="center">Hi, I'm Asmae 👋</h1>
