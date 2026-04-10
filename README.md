@@ -50,9 +50,9 @@
 
 ## 🏫 1337 (42) Profile
 
-
+<p align="center">
 [![atahtouh's 42 stats](https://badge.mediaplus.ma/colorfulwaves/atahtouh)](https://github.com/oakoudad/badge42)
-
+</p>
 
 ---
 
