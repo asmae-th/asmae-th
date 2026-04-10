@@ -51,9 +51,7 @@
 ## 🏫 1337 (42) Profile
 
 <p align="center">
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/colorfulwaves/atahtouh" alt="atahtouh's 42 stats" />
-  </a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/atahtouh" alt="atahtouh's 42 stats" /></a>
 </p>
 
 ---
